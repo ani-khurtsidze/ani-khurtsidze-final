@@ -150,8 +150,6 @@ hr {
 
 }
 
-
-
 /*section3*/
 .section3 {
 
@@ -284,7 +282,14 @@ hr {
 }
 
 
-.active {
+
+
+.social_ul {
+    display: flex;
+    column-gap: 16px;
+}
+
+.word{
     font-family: Inter;
     font-weight: 400;
     font-size: 16;
@@ -292,13 +297,6 @@ hr {
     letter-spacing: 0%;
     color: #D9D9D9;
 }
-
-.social_ul {
-    display: flex;
-    column-gap: 16px;
-}
-
-
 
 .bottom_line {
     border-bottom: 2px;
