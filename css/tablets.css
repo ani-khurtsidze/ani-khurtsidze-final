@@ -66,5 +66,8 @@ left: 124px;
 border-radius: 4px;
 
     }
-    
+    .no{
+        display: none;
+    }
+  
 }

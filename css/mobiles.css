@@ -68,5 +68,7 @@ border-radius: 4px;
     .fillter{
         display: none;
     }
-
+.no{
+    display: none;
+}
 }
