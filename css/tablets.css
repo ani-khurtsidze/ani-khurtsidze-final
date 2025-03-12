@@ -1,0 +1,70 @@
+@media(max-width:744px) {
+    /*header*/
+    .header {
+        padding-inline: 24px;
+    }
+    .section2 {
+        height: 480px;
+        padding-top: 32px;
+    }
+
+    .section3 {
+        padding: 48px 0 36px 24px;
+    }
+    /*section5*/
+    .section5{
+        padding-inline: 24px;
+    }
+
+    /*section7*/
+
+    .section7 {
+        padding: 64px 24px;
+        height: 807px;
+    }
+    .section7_div{
+        flex-direction: column;
+        padding: 16px;
+        row-gap: 48px;
+
+    }
+
+    .form_section,
+    .social_links_section {
+        width: 100%;
+    }
+
+    .form_tittle {
+        margin-bottom: 24px;
+        font-size: 32px;
+        line-height: 39px;
+    }
+
+    .social_links_section {
+        row-gap: 24px;
+    }
+
+    .link {
+        column-gap: 42px;
+    }
+
+    .map {
+        height: 200px;
+    }
+    .footer1{
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 40px;
+    
+    }
+    .Selling{display: none;
+    }
+    .btn_icon{
+        width: 36px;
+height: 32px;
+left: 124px;
+border-radius: 4px;
+
+    }
+    
+}

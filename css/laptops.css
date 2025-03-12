@@ -1,0 +1,61 @@
+/*1439-769*/
+@media(max-width: 1180px){
+    /*header*/
+    .header{
+    padding-inline: 32px;}
+
+    
+    .burger_menu{
+        display: block;
+        
+    }
+    .header_nav{
+        position: fixed;
+        top: 98.4px;
+        left: -100%;
+        background-color: #C46A2B;
+        width: 200px;
+height: 144px;
+
+padding: 16px;
+transition: .6s linear;
+    }
+    .show{
+        left: 0;
+    }
+.header_ul{
+    flex-direction: column;
+row-gap: 8px;}
+/* section2 */
+.section2 {
+    padding-inline: 32px ;
+}
+/*section3*/
+.card_section3{
+    overflow: scroll;
+}
+.card_article{
+flex: 1 0 298px ;
+}
+.footer1{
+    display: flex;
+    /* padding: 242px; */
+    justify-content: center;
+
+    column-gap: 157px;
+}
+/*section5*/
+.section5{
+    padding-inline: 32px;
+}
+
+/*section7*/
+.section7{
+padding-inline: 32px;
+}
+.no{
+    display: none;
+}
+}
+
+

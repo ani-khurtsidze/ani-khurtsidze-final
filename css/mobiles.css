@@ -1,0 +1,72 @@
+@media (max-width:480px) {
+    /* footer */
+
+    .footer1{
+        flex-direction: column;
+        row-gap: 40px;
+    }
+
+    .footer1 section {
+        text-align: center;
+    
+    }
+
+    .footer1 ul {
+
+        align-items: center;
+    }
+
+
+    /* section2*/
+
+    .section2_heading {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    /* section3 */
+
+    .section3 {
+        padding: 32px 20px;
+    }
+
+    /*section7*/
+    .section7 {
+        padding: 48px 8px;
+        height: 808px;
+    }
+
+    .section7_div {
+        padding-inline: 8px;
+    }
+
+    .form_tittle {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .map {
+        height: 200px;
+    }
+
+    .div1input {
+        row-gap: 24px;
+    }
+
+    .message_text {
+        margin-block: 24px;
+    }
+    .Selling{display: none;
+    }
+    .btn_icon{
+        width: 36px;
+height: 32px;
+left: 124px;
+border-radius: 4px;
+
+    }
+    .fillter{
+        display: none;
+    }
+
+}
